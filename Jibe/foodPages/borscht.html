@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dish Details</title>
+    <link rel="stylesheet" href="foodPages.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+
+    <div id="dishDetails" class="dish-details"></div> <!-- Added a class for styling -->
+
+    <script>
+        // Retrieve the dish data from localStorage
+        const dishData = JSON.parse(localStorage.getItem('selectedDish'));
+
+        // Check if dishData is not null
+        if (dishData) {
+            const dishDetails = `
+                <h1 class="dish-name">${dishData.name}</h1>
+                <img src="${dishData.image2}">
+                <p class="dish-country">Country: ${dishData.country}</p>
+                <p class="dish-prep-time">Preparation Time: ${dishData.prepTime}</p>
+                <p class="dish-servings">Servings: ${dishData.servings}</p>
+                <p class="dish-description">Description: ${dishData.description}</p>
+                <p class="dish-nutrition">Nutritional Info: ${dishData.nutrition}</p>
+                <p class="dish-allergies">Allergies: ${dishData.allergies}</p>
+            `;
+            document.getElementById('dishDetails').innerHTML = dishDetails;
+        } else {
+            document.getElementById('dishDetails').innerHTML = '<p>No dish data found.</p>';
+        }
+    </script>
+
+</body>
+</html>

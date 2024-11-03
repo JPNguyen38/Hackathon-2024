@@ -1,0 +1,35 @@
+*
+.dish-details {
+    background-color: #f9f9f9; /* Light background for contrast */
+    border-radius: 10px; /* Rounded corners for the container */
+    padding: 20px; /* Padding around the container */
+    max-width: 800px; /* Limit the width of the container */
+    margin: 20px auto; /* Center the container */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+}
+
+/* Dish name */
+.dish-name {
+    font-size: 2rem; /* Large font for the dish name */
+    color: #6B4F4F; /* Warm brown color for the name */
+    margin-bottom: 15px; /* Space below the dish name */
+}
+
+/* Paragraph styles */
+.dish-details p {
+    font-size: 1.1rem; /* Slightly larger font for readability */
+    color: #333; /* Dark text for readability */
+    margin-bottom: 10px; /* Space between paragraphs */
+}
+
+/* Specific styles for each dish detail */
+.dish-country,
+.dish-prep-time,
+.dish-servings,
+.dish-description,
+.dish-nutrition,
+.dish-allergies {
+    padding-left: 15px; /* Indent the details */
+    border-left: 4px solid #6B4F4F; /* Line to the left of the detail */
+    margin-top: 10px; /* Space above each detail */
+}

@@ -1,0 +1,244 @@
+[
+    {
+        "name": "Cornbread",
+        "month": 11,
+        "prepTime": 30,
+        "servings": 12,
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1 cup yellow cornmeal",
+            "⅔ cup white sugar",
+            "3 ½ teaspoons baking powder",
+            "1 teaspoon salt",
+            "1 cup milk",
+            "⅓ cup vegetable oil",
+            "1 large egg"
+        ],
+        "description": "Cornbread holds deep roots in Native American cuisine, originally made from ground corn long before European settlers arrived in the Americas. It\\'s since become a Southern staple in the U.S., symbolizing comfort and tradition, with recipes varying across regions and families. Today, cornbread is enjoyed widely, reflecting a blend of indigenous and Southern culinary heritage.",
+        "country": "Southern United States",
+        "nutrition": {
+            "servingSize": "One standard piece (60 grams)",
+            "calories": 198,
+            "fat": "5.8g",
+            "cholesterol": "0mg",
+            "sodium": "359 mg",
+            "carbs": "32.7g",
+            "protein": "4g"
+           
+        },
+        "allergies": ["Corn", "Gluten"],
+        "image": "https://www.allrecipes.com/thmb/ogdc1HqUZDAJH7iqGHljK7mx7-c=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/17891-golden-sweet-cornbread-ddmfs-beauty-4x3-BG-25990-bcabebac0323419abdf0497ee3383003.jpg",
+        "image2": "https://www.allrecipes.com/thmb/2JmlEafcVbOJpFu4wFUGvUxMNWQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/76594-grandmothers-buttermilk-cornbread-beauty-3x4-0135064414801604-dd84dcaf1d0f421eb3b6fdced8cf0ad3.jpg"
+    },
+    {
+        "name": "Tacos De Pescado",
+        "month": 11,
+        "prepTime": 45,
+        "servings": null,
+        "ingredients": [
+            "½ lb fish filet, cut lengthwise into strips",
+            "1 cup flour",
+            "1 teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "1 tablespoon vegetable oil",
+            "2 eggs, separated",
+            "Oil for frying",
+            "Corn tortillas or flour tortillas, warmed",
+            "Shredded cabbage (lightly dressed)",
+            "Raw onion rings (marinated in vinegar and oregano)",
+            "Guacamole salsa",
+            "Pico de gallo"
+        ],
+        "description": "From November 1st to the 2nd, Mexico celebrates a holiday known as the Feast of the Dead (Día de los Muertos), a holiday that honors deceased loved ones. It is popularized especially in November because it is enjoyed during gatherings, reinforcing social bonds and the communal aspect of sharing food. In recent years, tacos de Pescado have evolved, incorporating various ingredients and cooking methods, showcasing Mexico’s dynamic cuisine.",
+        "country": "Mexico",
+        "nutrition": {
+            "servingSize": "1 Taco (123g)",
+            "calories": 243,
+            "totalFat": "12g",
+            "cholesterol": "43mg",
+            "sodium": "0.8g",
+            "carbs": "18g",
+            "protein": "16g"
+        },
+        "allergies": ["Fish", "Shellfish", "Nuts", "Gluten", "Dairy", "Eggs"],
+        "image": "https://www.maricruzavalos.com/wp-content/uploads/2023/07/tacos-de-pescado.webp",
+        "image2": "https://i0.wp.com/cucharamia.com/wp-content/uploads/2021/03/tacos-pescado-2.jpg?resize=681%2C1024&ssl=1"
+    },
+    {
+        "name": "Stollen",
+        "month": 11,
+        "prepTime": 18,
+        "servings": null,
+        "ingredients": [
+            "4 cups (500g) all-purpose flour",
+            "1 packet (2 1/4 tsp) active dry yeast",
+            "1/2 cup (100g) granulated sugar",
+            "¼ teaspoon salt",
+            "1 tablespoon ground cinnamon",
+            "1/2 teaspoon nutmeg",
+            "1/2 cup (120ml) milk, warmed",
+            "1/2 cup (115g) unsalted butter, softened1/2 cup (115g) unsalted butter, softened",
+            "2 large eggs",
+            "1/2 cup (75g) mixed dried fruit(raisins, currants, chopped candied fruit",
+            "Zest of 1 lemon",
+            "Zest of 1 orange",
+            "1/4 cup (60g) unsalted butter, melted",
+            "Powdered sugar for dusting"
+        ],
+        "description": "Stollen is traditionally prepared in anticipated of Advent, a time of preparation for Christmas in many Christian traditions. Stollen has deep roots in German culture, with recipes dating back to the 15th century. BY beginning to make and share Stollen in November, families can enjoy it throughout the Advent season and also pass down these culinary traditions as well",
+        "country": "Germany",
+        "nutrition": {
+            "servingSize": "1 Standard Piece (50g)",
+            "calories": 190,
+            "totalFat": "8g",
+            "cholesterol": "25mg",
+            "sodium": "170mg",
+            "carbs": "25g",
+            "protein": "4g"
+        },
+        "allergies": ["Soy", "Wheat", "Nuts", "Gluten", "Dairy", "Eggs"],
+        "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1220,h_915/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2021-10-Stollen%2Fstollen-bread-2",
+        "image2": "https://www.foodandwine.com/thmb/ENMRp4ZbyBB6JZEqPaJ9w_3vLzo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Christmas-Stollen-FT-RECIPE1023-4feaede69a1d4131b58dcc65b3777f99.jpg"
+
+    },
+    {
+        "name": "Grilled Chicken Spiedini",
+        "month": 10,
+        "prepTime": 45,
+        "servings": 4,
+        "ingredients":
+         [
+            "4 boneless, skinless chicken breast ",
+            "1 cup Italian bread crumbs",
+            "1 cup grated parmesan cheese",
+            "1 teaspoon grated lemon peel",
+            "1/2 teaspoon nutmeg",
+            "2-3 cloves minced garlic",
+            "1/2 stick butter",
+            "1/2 cup of good extra virgin olive oil",
+            "4 slices of Provolone cheese",
+            "1 large tomato"
+        ],
+        "description": "Grilled Chicken Spiedini is an Italian-American dish rooted in Sicily\\'s tradition of skewered meats. Originally featuring lamb or pork, Italian immigrants adapted the recipe with chicken in the U.S. It has popular for its flavorful marinade and breaadcrumbs, representing the rich, rustic flavors of Italian street food.",
+        "country": "Italy",
+        "nutrition": {
+            "servingSize": "1 Standard Piece (50g)",
+            "calories": 550,
+            "totalFat": "7g",
+            "cholesterol": "55mg",
+            "sodium": "330mg",
+            "carbs": "7g",
+            "protein": "23g"
+        },
+        "allergies": [ "Gluten", "Dairy"],
+        "image": "https://easychickenrecipes.com/wp-content/uploads/2021/06/featured-chicken-spiedini-recipe.jpg ",
+        "image2": "https://carnediem.blog/wp-content/uploads/2022/03/Chicken-Speidini-500x500.jpg"
+    },
+    {
+        "name": "Pumpkin Pie",
+        "month": 10,
+        "prepTime": 30,
+        "servings": 9,
+        "ingredients": [
+            "1 9-inch Homemade pie crust, or store bought, deep dish, unbaked",
+            "3/4 cup granulated sugar",
+            "1 tablespoon ground cinnamon",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon ground ginger",
+            "1/4 teaspoon ground cloves",
+            "2 large eggs",
+           "15 ounce canned pumpkin or fresh pumpkin puree",
+           "12 ounce can evaporated milk" 
+        ],
+        "description": "The origins of pumpkin pie can be tracked back to England, where sweet pies made with various fruits and vegetables were popular. Early English settlers brought the practice of making pies to America, where they adapted the recipe using locally available ingredients, including pumpkins. This fusion led to the development of the pumpkin pie we recognize today, espically as it became associated with American harvest festivals and Thanksgiving.",
+        "country": "England",
+        "nutrition": {
+            "servingSize": "1 Standard Piece (50g)",
+            "calories": 225,
+            "totalFat": "9g",
+            "cholesterol": "47mg",
+            "sodium": "251mg",
+            "carbs": "32g",
+            "protein": "5g"
+        },
+        "allergies": ["Soy", "Nuts", "Gluten", "Dairy", "Eggs"],
+        "image": "https://thebigmansworld.com/wp-content/uploads/2024/08/keto-pumpkin-pie-recipe.jpg ",
+        "image2": "https://tastesbetterfromscratch.com/wp-content/uploads/2022/10/PumpkinPie2-2.jpg"
+    },
+    {
+        "name": "Borscht",
+        "month": 10,
+        "prepTime": 60,
+        "servings": 8,
+        "ingredients": [
+            "1 large beet",
+            "1 large carrot",
+            "1 medium onion",
+            "1/4 head of cabbage",
+            "2 medium potatos",
+            "3-4 cloves of garlic",
+            "1 tablespoon of vinegar",
+            "6 cups of beef broth",
+            "1 bay leaf",
+            "salt and pepper",
+            "fresh dill",
+            "sour cream"
+        ],
+        "description": "The dish showcases the culinary heritage of Eastern Europe, with each region having its variations. Borscht is commonly served at family gatherings and celebrations, emphasizing hospitality and the importance of communal meals. The dish has roots in ancient Slavic cuisine and has evolved through centuries, reflecting the social and economic changes in the region.",
+        "country": "Ukraine",
+        "nutrition": {
+            "servingSize": "1 Serving Size (525g)",
+            "calories": 217,
+            "totalFat": "6.5g",
+            "cholesterol": "3.6mg",
+            "sodium": "329mg",
+            "carbs": "34g",
+            "protein": "7g"
+        },
+        "allergies": ["Beets ", "Celery ", "Gluten "],
+        "image": "https://www.allrecipes.com/thmb/LTMiS5Tk0Uf63rMvtkzwB96Boec=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/84450-ukranian-red-borscht-soup-ddmfs-0266-3x4-hero-890c67fee10b4b0e828f152d22888a56.jpg"
+    },
+    {
+        "name": "Gingerbread",
+        "month": 12,
+        "preptime": 120,
+        "country": "Germany",
+        "image": "https://peanutbutterandjulie.com/wp-content/uploads/2023/12/Gingerbread-man-cut-out-cookie-sq-500x500.jpg"
+
+    },
+    {
+        "name": "Eggnog",
+        "month": 12,
+        "preptime": 15,
+        "country": "United States",
+        "image": "https://www.biggerbolderbaking.com/wp-content/uploads/2021/12/BBB0926213039-scaled.jpg"
+    },
+    {
+        "name": "Panettone",
+        "month": 12,
+        "preptime": 240,
+        "country": "Italy",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlpDMsEJ-huk4KH5M2-Z-0h5VDSKLLWsO7A&s"
+    },
+    {
+        "name": "Apple Pie",
+        "month": 9,
+        "preptime": 90,
+        "country": "United States",
+        "image": "https://schoolnightvegan.com/wp-content/uploads/2022/11/vegan-apple-pie-featured-1-2.jpg"
+    },
+    {
+        "name": "Chiles en Nogada",
+        "month": 9,
+        "preptime": 120,
+        "country": "Mexico",
+        "image": "https://www.foodandwine.com/thmb/2japeeB6q0uNgg18Pvg2QJn4J6w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chiles-en-Nogada-single-FT-MAG-RECIPE-0924-9dc183a3d6f944d68794546456c2f5c8.jpg"
+    },
+    {
+        "name": "Pasta alla Puttanesca",
+        "month": 9,
+        "preptime": 30,
+        "country": "Italy",
+        "image": "https://www.vincenzosplate.com/wp-content/uploads/2023/12/1500x1500-Photo-14_3319-How-to-make-Pasta-alla-Puttanesca-V1.jpg"
+    }
+]
